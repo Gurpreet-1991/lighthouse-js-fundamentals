@@ -4,3 +4,4 @@ const isOdd = function (num) {
 
 console.log("5 is odd: " + isOdd(3));
 console.log("8 is odd: " + isOdd(8));
+
